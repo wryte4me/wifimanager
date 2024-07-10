@@ -23,7 +23,7 @@ This provides an easier implementation of the  [WiFi manager v.2.0.17 by tzapu](
 
 1. Push button circuit connected to a pin of your ESP-based Microcontroller. This code works only by using a push-button connected to a pin connected to GND using a pull-down resistor. You may refer to the schematic below.
 
-<img src="/assets/images/circuitdiagram/wificonfig.png" width="200" height="100">
+ ![Circuit Diagram](/assets/images/circuitdiagram/wificonfig.png)
 
 2. Install the wifi manager library by Tzapu either directly from the Arduino IDE Library Manager or by downloading the zip file from  [GitHub](https://github.com/tzapu/WiFiManager)
 
